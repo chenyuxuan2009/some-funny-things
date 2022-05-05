@@ -1,27 +1,27 @@
 @echo off
 setlocal enabledelayedexpansion
-title è½¬æ¢é¢œè‰²
+title ×ª»»ÑÕÉ«
 
-echo  0 = é»‘è‰² 		
-echo  1 = è“è‰²       
-echo  2 = ç»¿è‰²       
-echo  3 = æµ…ç»¿è‰²     
-echo  4 = çº¢è‰²       
-echo  5 = ç´«è‰²       
-echo  6 = é»„è‰²       
-echo  7 = ç™½è‰²       
-echo  8 = ç°è‰²
-echo  9 = æ·¡è“è‰²
-echo 10 = æ·¡ç»¿è‰²
-echo 11 = æ·¡æµ…ç»¿è‰²
-echo 12 = æ·¡çº¢è‰²
-echo 13 = æ·¡ç´«è‰²
-echo 14 = æ·¡é»„è‰²
-echo 15 = äº®ç™½è‰²
-echo æ³¨ï¼šå¦‚æžœèƒŒæ™¯å’Œå­—ä½“åŒè‰²ä¼šæ˜¾ç¤ºä¸å‡ºæ¥å“¦
+echo  0 = ºÚÉ« 		
+echo  1 = À¶É«       
+echo  2 = ÂÌÉ«       
+echo  3 = Ç³ÂÌÉ«     
+echo  4 = ºìÉ«       
+echo  5 = ×ÏÉ«       
+echo  6 = »ÆÉ«       
+echo  7 = °×É«       
+echo  8 = »ÒÉ«
+echo  9 = µ­À¶É«
+echo 10 = µ­ÂÌÉ«
+echo 11 = µ­Ç³ÂÌÉ«
+echo 12 = µ­ºìÉ«
+echo 13 = µ­×ÏÉ«
+echo 14 = µ­»ÆÉ«
+echo 15 = ÁÁ°×É«
+echo ×¢£ºÈç¹û±³¾°ºÍ×ÖÌåÍ¬É«»áÏÔÊ¾²»³öÀ´Å¶
 :start
-set /p a=ä½ æƒ³è½¬æ¢çš„èƒŒæ™¯ç¼–å·ï¼š
-set /p b=ä½ æƒ³è½¬æ¢çš„å­—ä½“ç¼–å·ï¼š
+set /p a=ÄãÏë×ª»»µÄ±³¾°±àºÅ£º
+set /p b=ÄãÏë×ª»»µÄ×ÖÌå±àºÅ£º
 if %a% EQU 0 (
     if %b% EQU 0 (
         color 00
@@ -1093,4 +1093,5 @@ if %a% EQU 15 (
         goto start
     )
 )
-pause
+echo ÄúµÄ±àºÅ²»ÔÚÕâÐ©ÊýÀïÄØ£¬ÇëÖØÐÂÊäÈë¡£
+goto start
