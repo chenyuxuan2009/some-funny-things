@@ -24,6 +24,14 @@
 
 855430635
 
+### QQ验证答案
+
+加群答案为 
+
+```cpp
+https://github.com/chenyuxuan2009/some-funny-things
+```
+
 ## 更新日志
 
 ### 2022
