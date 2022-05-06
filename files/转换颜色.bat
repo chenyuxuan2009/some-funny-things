@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 title 转换颜色
-
+echo 此代码来自@chenyuxuan__2009
 echo  0 = 黑色 		
 echo  1 = 蓝色       
 echo  2 = 绿色       

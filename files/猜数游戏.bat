@@ -2,6 +2,7 @@
 setlocal enabledelayedexpansion
 title 猜数游戏
 :start
+echo 此代码来自@chenyuxuan__2009
 set random_num=%random%
 set x=15
 echo 随机数为0到65535的数字之一。
