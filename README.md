@@ -17,8 +17,7 @@
 然后附带你的成品，.bat格式。
 
 ### QQ链接
-
-点击链接加入群聊【some-funny-things开发群&用】：https://jq.qq.com/?_wv=1027&k=xkW5h1tM
+https://jq.qq.com/?_wv=1027&k=xkW5h1tM
 
 ### QQ群号
 
