@@ -14,7 +14,9 @@
 简述：大概可以干啥。
 ```
 
-然后附带你的成品，.bat格式。
+然后附带你的成品，最好是.bat格式，.html、.exe、.cpp等也不拦着。
+
+快捷的方法：有我的QQ，然后说一下。
 
 ### QQ链接
 https://jq.qq.com/?_wv=1027&k=xkW5h1tM
@@ -23,15 +25,11 @@ https://jq.qq.com/?_wv=1027&k=xkW5h1tM
 
 855430635
 
-### QQ验证答案
-
-加群答案为 
-
-```cpp
-https://github.com/chenyuxuan2009/some-funny-things
-```
-
 ## 更新日志
+
+可以直接在本地的目录里 `git pull`。
+
+若是直接下载，需手动更新，重新下载。
 
 ### 2022
 
@@ -51,7 +49,15 @@ https://github.com/chenyuxuan2009/some-funny-things
 
 增加贡献代码者昵称。
 
+#### 2022.6.5
+
+更新了 README 文件。
+
 ## 使用说明
+
+直接 `git clone https://github.com/chenyuxuan2009/some-funny-things.git` 到你的本地。
+
+或者直接下载+解压（这样子每次更新可能需手动更新）。
 
 ### 猜数游戏
 
