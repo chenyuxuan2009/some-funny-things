@@ -61,7 +61,7 @@ https://jq.qq.com/?_wv=1027&k=xkW5h1tM
 
 ### 猜数游戏
 
-来自@[chenyuxuan__2009](https://chenyuxuan2009.github.io/)。
+来自@[chenyuxuan__2009](http://chen2009.tk)。
 
 系统会随机生成 1 至 65535 的数之一。
 
@@ -69,6 +69,6 @@ https://jq.qq.com/?_wv=1027&k=xkW5h1tM
 
 ### 转换颜色
 
-来自@[chenyuxuan__2009](https://chenyuxuan2009.github.io/)。
+来自@[chenyuxuan__2009](http://chen2009.tk)。
 
 输入几个编号，会切换电脑的当前窗口颜色及字体。相同颜色难以识别，固不可改为相同颜色。
