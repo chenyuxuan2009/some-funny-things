@@ -5,6 +5,7 @@ title 猜数游戏
 echo 此代码来自@chenyuxuan__2009
 set random_num=%random%
 set x=15
+:begin
 echo 随机数为0到65535的数字之一。
 ::echo %random_num% 
 :: 删除上面一行的两点，就会显示随机数
